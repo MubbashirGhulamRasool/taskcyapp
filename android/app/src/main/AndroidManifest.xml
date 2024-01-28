@@ -2,7 +2,7 @@
     <application
         android:label="taskcyapp"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/trackericon">
         <activity
             android:name=".MainActivity"
             android:exported="true"
